@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{642C1A89-6D71-4622-BD46-71B95BA4ECA8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>WindowsApplication1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\oraclexe\app\oracle\product\11.2.0\server\odp.net\bin\4\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CHECKIN_WAHANA.Designer.vb">
+      <DependentUpon>CHECKIN_WAHANA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CHECKIN_WAHANA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormInputParkir.designer.vb">
+      <DependentUpon>FormInputParkir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormInputParkir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterJenisKendaraan.designer.vb">
+      <DependentUpon>MasterJenisKendaraan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterJenisKendaraan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulProyek.vb" />
+    <Compile Include="PARKIR.designer.vb">
+      <DependentUpon>PARKIR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PARKIR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report1.Designer.vb">
+      <DependentUpon>report1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report2.Designer.vb">
+      <DependentUpon>report2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report3.Designer.vb">
+      <DependentUpon>report3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTONLY.designer.vb">
+      <DependentUpon>REPORTONLY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTONLY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TOTAL.Designer.vb">
+      <DependentUpon>TOTAL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TOTAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GATE.Designer.vb">
+      <DependentUpon>GATE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GATE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ID_WAHANA.Designer.vb">
+      <DependentUpon>ID_WAHANA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ID_WAHANA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INSERT_SHOW.Designer.vb">
+      <DependentUpon>INSERT_SHOW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="INSERT_SHOW.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MASTER.Designer.vb">
+      <DependentUpon>MASTER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MASTER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="master jabatan.Designer.vb">
+      <DependentUpon>master jabatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="master jabatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MASTER SPONSOR.Designer.vb">
+      <DependentUpon>MASTER SPONSOR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MASTER SPONSOR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MASTER PEMASUKKAN.Designer.vb">
+      <DependentUpon>MASTER PEMASUKKAN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MASTER PEMASUKKAN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MASTER MEMBER.Designer.vb">
+      <DependentUpon>MASTER MEMBER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MASTER MEMBER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master Pegawai.Designer.vb">
+      <DependentUpon>Master Pegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master Pegawai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MASTER PENGELUARAN.Designer.vb">
+      <DependentUpon>MASTER PENGELUARAN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MASTER PENGELUARAN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MASTER STAND.Designer.vb">
+      <DependentUpon>MASTER STAND.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MASTER STAND.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAINMENU.Designer.vb">
+      <DependentUpon>MAINMENU.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAINMENU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NEW PEGAWAI.Designer.vb">
+      <DependentUpon>NEW PEGAWAI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NEW PEGAWAI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAP.Designer.vb">
+      <DependentUpon>MAP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PENGUNJUNG.Designer.vb">
+      <DependentUpon>PENGUNJUNG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PENGUNJUNG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TIKET.Designer.vb">
+      <DependentUpon>TIKET.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TIKET.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GATE IN.Designer.vb">
+      <DependentUpon>GATE IN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GATE IN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.vb">
+      <DependentUpon>LOGIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CHECKIN_WAHANA.resx">
+      <DependentUpon>CHECKIN_WAHANA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInputParkir.resx">
+      <DependentUpon>FormInputParkir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GATE.resx">
+      <DependentUpon>GATE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ID_WAHANA.resx">
+      <DependentUpon>ID_WAHANA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INSERT_SHOW.resx">
+      <DependentUpon>INSERT_SHOW.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MASTER.resx">
+      <DependentUpon>MASTER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="master jabatan.resx">
+      <DependentUpon>master jabatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MASTER SPONSOR.resx">
+      <DependentUpon>MASTER SPONSOR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MASTER PEMASUKKAN.resx">
+      <DependentUpon>MASTER PEMASUKKAN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAP.resx">
+      <DependentUpon>MAP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MASTER MEMBER.resx">
+      <DependentUpon>MASTER MEMBER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master Pegawai.resx">
+      <DependentUpon>Master Pegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MASTER PENGELUARAN.resx">
+      <DependentUpon>MASTER PENGELUARAN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MASTER STAND.resx">
+      <DependentUpon>MASTER STAND.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAINMENU.resx">
+      <DependentUpon>MAINMENU.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterJenisKendaraan.resx">
+      <DependentUpon>MasterJenisKendaraan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NEW PEGAWAI.resx">
+      <DependentUpon>NEW PEGAWAI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PARKIR.resx">
+      <DependentUpon>PARKIR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PENGUNJUNG.resx">
+      <DependentUpon>PENGUNJUNG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report1.resx">
+      <DependentUpon>report1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report2.resx">
+      <DependentUpon>report2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report3.resx">
+      <DependentUpon>report3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTONLY.resx">
+      <DependentUpon>REPORTONLY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TIKET.resx">
+      <DependentUpon>TIKET.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GATE IN.resx">
+      <DependentUpon>GATE IN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TOTAL.resx">
+      <DependentUpon>TOTAL.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hasil.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281111%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %28s11%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background panjang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg panjang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG PERSEGI PANJANG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\antrian.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dell1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gerbang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insert1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jabatan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\master.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\member.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pegawai.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pemasukan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pengeluaran.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sponsor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wahana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cust.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background panjang1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg panjang1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG PERSEGI PANJANG1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laporan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\total.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\master1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\master2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laporan2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masterrr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\antriann.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inserttt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delettt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updateee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backkk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pemasukan1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pengunjung.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list kendaarn.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

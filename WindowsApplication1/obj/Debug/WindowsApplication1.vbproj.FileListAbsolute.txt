@@ -1,0 +1,334 @@
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.GATE_OUT.resources
+C:\Users\Mrf3r12y\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.MENU.resources
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE_OUT.resources
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MENU.resources
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\tugas kuliah\PPB\PROYEK_1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.idkendaraan.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE_OUT.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+C:\Users\ongky\Downloads\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.idkendaraan.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE_OUT.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.idkendaraan.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PENGUNJUNG.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAINMENU.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATEIN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CHECKIN_WAHANA.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ID_WAHANA.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CHECKIN_WAHANA.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ID_WAHANA.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.INSERT_SHOW.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAINMENU.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PENGUNJUNG.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATEIN.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOTAL.resources
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\tugas kuliah\PPB\REVISI PROGRAM NAFA\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CHECKIN_WAHANA.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormInputParkir.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ID_WAHANA.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.INSERT_SHOW.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAINMENU.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MasterJenisKendaraan.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PENGUNJUNG.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report1.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report2.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report3.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.REPORTONLY.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATEIN.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOTAL.resources
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Andy\Desktop\end\JADI BOSS\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CHECKIN_WAHANA.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormInputParkir.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ID_WAHANA.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.INSERT_SHOW.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAINMENU.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MasterJenisKendaraan.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PENGUNJUNG.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report1.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report2.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report3.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.REPORTONLY.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATEIN.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOTAL.resources
+C:\Users\Andy\Desktop\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ongky\Desktop\New folder\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ongky\Desktop\New folder\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ongky\Desktop\New folder\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ongky\Desktop\New folder\end\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CHECKIN_WAHANA.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormInputParkir.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ID_WAHANA.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.INSERT_SHOW.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAINMENU.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MasterJenisKendaraan.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PENGUNJUNG.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report1.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report2.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report3.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.REPORTONLY.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATEIN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOTAL.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\HASIL JADI FIX\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CHECKIN_WAHANA.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormInputParkir.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ID_WAHANA.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.INSERT_SHOW.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAINMENU.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MasterJenisKendaraan.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PENGUNJUNG.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report1.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report2.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report3.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.REPORTONLY.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATEIN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOTAL.resources
+E:\SIB\SEMESTER 4\PROYEK BISNIS 1\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CHECKIN_WAHANA.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FormInputParkir.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATE.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ID_WAHANA.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.INSERT_SHOW.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.master_jabatan.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_SPONSOR.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PEMASUKKAN.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAP.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_MEMBER.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Master_Pegawai.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_PENGELUARAN.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MASTER_STAND.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MAINMENU.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MasterJenisKendaraan.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NEW_PEGAWAI.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PARKIR.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PENGUNJUNG.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report1.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report2.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.report3.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.REPORTONLY.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TIKET.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.GATEIN.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOTAL.resources
+C:\Users\Andy\Desktop\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\sisa progbis dkit\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Andy\Desktop\sisa progbis dkit\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Andy\Desktop\sisa progbis dkit\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Andy\Desktop\sisa progbis dkit\end\PROGRAM REVISI 2\Sistem Pariwisata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
